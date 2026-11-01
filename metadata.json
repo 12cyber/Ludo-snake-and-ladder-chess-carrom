@@ -1,0 +1,6 @@
+{
+  "name": "Playverse",
+  "description": "Complete multi-game mobile gaming platform featuring Snake & Ladders, Ludo, Carrom with 2D physics, and Chess with AI opponents, custom themes, pawn collections, and unified player statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

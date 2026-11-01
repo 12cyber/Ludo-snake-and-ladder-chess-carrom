@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Playverse</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_stats">Statistics</string>
+    <string name="nav_profile">Profile</string>
+    <string name="game_snakes_title">Snake &amp; Ladders</string>
+    <string name="game_snakes_desc">100-tile serpentine adventure with animated snakes, 3D ladders &amp; 8 worlds</string>
+    <string name="game_ludo_title">Ludo</string>
+    <string name="game_ludo_desc">Tactical 4-player classic with 3D dice, strategic AI &amp; 12 collectible pawns</string>
+    <string name="game_carrom_title">Carrom</string>
+    <string name="game_carrom_desc">Authentic 2D rigid-body physics striker board with Queen cover rules</string>
+    <string name="game_chess_title">Chess</string>
+    <string name="game_chess_desc">Complete FIDE rules, Alpha-Beta AI engine, puzzles &amp; 7 luxury board sets</string>
+    <string name="continue_playing">Continue Last Game</string>
+    <string name="play_now">Play Now</string>
+    <string name="resume_game">Resume</string>
+    <string name="settings_title">Settings &amp; Preferences</string>
+    <string name="pawn_vault_title">Pawn Collection Vault</string>
+</resources>
